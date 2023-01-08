@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ea3vdep8ymZi3Gn/DLC7N5nVQd3NLBWffY837MGi7nNxdJuTWSROcz20yOtezL+oI5647WL2utV9BMnLqJ8waQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David\\Desktop\\Csopi descartes\\RecursiveDescartes\\RecursiveDescartes\\RecursiveDescartes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
